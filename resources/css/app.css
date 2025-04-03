@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* En app.css */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+[x-cloak] {
+    display: none;
+}
